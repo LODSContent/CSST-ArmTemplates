@@ -12,7 +12,7 @@
     },
     "packageURI": {
       "type": "string",
-      "defaultValue": "https://github.com/twallace27603/lods-cs001/blob/master/StorageChallenge/deploy/guided/StorageChallenge.zip?raw=true"
+      "defaultValue": "https://github.com/LODSContent/CSST-ArmTemplates/blob/master/StorageChallenge/deploy/guided/StorageChallenge.zip?raw=true"
     },
     "testType": {
       "type": "string",
