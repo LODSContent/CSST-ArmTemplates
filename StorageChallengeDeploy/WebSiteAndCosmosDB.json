@@ -85,7 +85,7 @@
             "webSocketsEnabled": false,
             "alwaysOn": false,
             "remoteDebuggingEnabled": false,
-            "remoteDebuggingVersion": "VS2015"
+            "remoteDebuggingVersion": "VS2017"
           }
         },
         {
